@@ -1,0 +1,10 @@
+# IJ editor stuff  
+.idea/ 
+out/ 
+*.class 
+.DS_Store  
+
+# Maven 
+target/  
+
+
